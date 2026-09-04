@@ -1,60 +1,39 @@
-# Pic2Emoji
+# Pic2Emoji — Make Emoji from Photo, Instantly
 
-> Free AI photo to emoji converter — plus a live random emoji generator. AI generation launches soon; reserve a free launch code by email.
+Turn your photo, your pet's, or your loved one's picture into a **custom 16-sticker emoji
+pack**. AI-powered, privacy-first — processing stays on your device.
 
-## Overview
-
-Pic2Emoji is a free English-language web tool built around one idea: turning a photo into a custom emoji and a full set of emoji stickers. The site is currently live with a working random emoji generator, example previews and an email reservation system for free launch codes, while AI-powered photo-to-emoji conversion is the announced next step. No signup or download is required for anything available today.
-
-## Quick facts
-
-- **Category:** Image & Fun Web Tool
-- **Best for:** Getting a custom emoji or sticker set from a photo once AI generation launches, and casual emoji browsing in the meantime
-- **Pricing:** Free; no account or download
-- **Free:** Yes
-- **Website:** [Pic2Emoji](https://pic2emoji.com/)
+> 🎁 **Launch offer**: Get a **free static pack (worth $4.90)** with your launch code.
+> Reserve yours → [pic2emoji.com](https://pic2emoji.com/)
 
 ## Features
 
-- AI photo-to-emoji conversion (launching soon — reserve a free launch code by email)
-- Animated emoji sticker sets
-- Live random emoji generator
-- Photo and preview examples for every planned style
-- No signup, account or download
+| | Static Pack | Animated Pack |
+|---|---|---|
+| **Price** | $4.90 | $9.90 |
+| **Stickers** | 16 custom emoji reactions | 16 animated emoji |
+| **Use anywhere** | Discord, WhatsApp, iMessage, social | Same + status stories |
+| **Privacy** | On-device, no server upload | On-device, no server upload |
 
-## Pros
+## How It Works
 
-- Free and frictionless to use
-- Clear roadmap — nothing over-promised on the site
-- Fun, shareable output format (emoji stickers)
+1. **Upload** a photo (face, pet, couple — any clear subject)
+2. **AI redraws** it into a consistent emoji style
+3. **Download** your pack and use it everywhere
 
-## Cons
+No account needed. No watermark on your pack.
 
-- AI conversion is not live yet — only a reservation list today
-- Smaller feature set than full photo-editing suites
+## Why Pic2Emoji?
 
-## Review
+- **Not just a sticker cutter** — it redraws your subject as a real consistent emoji style
+- **Privacy first** — your photo never leaves your browser
+- **Works for** you, your partner, your pet, your whole squad
 
-### What it is
+## Try It Now
 
-Pic2Emoji is a free, single-purpose web tool: pick a photo, get an emoji. Right now the live experience is the random emoji generator plus email reservation for launch codes; the photo-to-emoji AI step is the announced next milestone, so treat today's page as a launch list rather than a finished converter.
+→ [pic2emoji.com](https://pic2emoji.com/) — reserve your free launch code today.
 
-### How to use it
+## Status
 
-Browse the examples to see the planned sticker styles, try the random emoji generator for quick fun, and if you want a custom emoji from your own photo, leave your email to reserve a free launch code — you will be notified when generation opens.
-
-### Value
-
-It is free with no account or download, so the cost of trying it is zero. The practical value arrives when the AI converter goes live and a single photo can produce a personal emoji plus an animated sticker set without design skills.
-
-### Alternatives
-
-While you wait, official emoji keyboards and messaging stickers cover everyday emoji needs; design tools such as Canva cover custom images. Pic2Emoji's differentiator is turning a personal photo into an emoji-style sticker automatically — once that feature is live.
-
-
-## Links
-
-- Official website: <https://pic2emoji.com/>
-
----
-*Part of the [AI Tool Productivity](https://www.aitoolproductivity.com/) directory & free web tools network. Folder slug: `pic2emoji`.*
+- ✅ Private beta open (launch codes available)
+- 🔜 Public launch with paid static/animated packs
