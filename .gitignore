@@ -1,0 +1,5 @@
+# Local WorkBuddy session data (memory, notes) — keep out of the repo
+.workbuddy/
+
+# OS / editor noise
+.DS_Store

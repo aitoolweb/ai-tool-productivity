@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Notion AI — AI Productivity Tool Overview & Review</title>
+<meta name="description" content="Notion AI: AI search and writing inside a connected team workspace. Pricing: Included or available with select Notion plans Website: https://www.notion.com/product/ai">
+<style>
+  :root {
+    --accent: #111111;
+    --ink: #1a1f2e;
+    --muted: #5b6472;
+    --line: #e6e8ee;
+    --bg: #ffffff;
+    --soft: #f6f7f9;
+    --chip: rgba(0,0,0,.055);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; color: var(--ink); background: var(--bg); line-height: 1.65; -webkit-font-smoothing: antialiased; }
+  .topbar { border-bottom: 1px solid var(--line); background: var(--soft); }
+  .topbar-inner { max-width: 860px; margin: 0 auto; padding: 12px 24px; display: flex; justify-content: space-between; align-items: center; font-size: 14px; }
+  .topbar a { color: var(--muted); text-decoration: none; }
+  .topbar a:hover { color: var(--ink); }
+  .crumb { }
+  .source { color: var(--muted); }
+  main { max-width: 860px; margin: 0 auto; padding: 40px 24px 80px; }
+  .eyebrow { display: inline-block; font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); background: var(--chip); padding: 4px 10px; border-radius: 999px; }
+  h1 { font-size: 44px; line-height: 1.15; letter-spacing: -0.02em; margin: 14px 0 6px; }
+  .tagline { font-size: 19px; color: var(--muted); max-width: 640px; }
+  .hero { display: flex; gap: 18px; align-items: flex-start; margin: 26px 0 8px; flex-wrap: wrap; }
+  .visit { display: inline-flex; align-items: center; gap: 8px; background: var(--ink); color: #fff; text-decoration: none; font-weight: 600; font-size: 15px; padding: 12px 22px; border-radius: 10px; transition: opacity .15s; }
+  .visit:hover { opacity: .85; }
+  .visit .arr { font-size: 17px; }
+  .meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+  .meta span { font-size: 12.5px; font-weight: 500; color: var(--muted); background: var(--chip); padding: 5px 10px; border-radius: 8px; }
+  .meta .free { color: #0b6b3f; background: #e5f6ec; }
+  .meta .paid { color: #8a5a00; background: #fdf1dc; }
+  .desc { font-size: 17px; color: #2a3040; max-width: 760px; margin: 22px 0 4px; }
+  section { margin-top: 44px; }
+  h2 { font-size: 20px; letter-spacing: -0.01em; padding-bottom: 8px; border-bottom: 2px solid var(--ink); display: inline-block; margin-bottom: 16px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 640px) { .grid2 { grid-template-columns: 1fr; } }
+  .panel { background: var(--soft); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; }
+  .panel h3 { font-size: 15px; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .pro h3 { color: #0b6b3f; } .con h3 { color: #a0342c; }
+  ul { list-style: none; }
+  ul li { position: relative; padding-left: 26px; margin: 7px 0; font-size: 15px; }
+  .feat li:before { content: "¹3"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+  .pro li:before { content: "91"; position: absolute; left: 0; color: #0b6b3f; font-weight: 700; }
+  .con li:before { content: "93"; position: absolute; left: 0; color: #a0342c; font-weight: 700; }
+  .ed blockquote { border-left: 3px solid var(--accent); background: var(--soft); padding: 14px 18px; border-radius: 0 10px 10px 0; margin: 14px 0; font-size: 15.5px; color: #333a49; }
+  .ed p { margin: 12px 0; font-size: 15.5px; color: #2a3040; }
+  .ed h4 { font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 22px 0 4px; }
+  .ed .verdict-label { }
+  .source-note { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); }
+  .source-note a { color: var(--muted); }
+  .pill { display:inline-flex; align-items:center; gap:6px; background: var(--accent); color:#fff; font-size: 12px; font-weight:700; letter-spacing:.04em; padding: 3px 10px; border-radius:999px; text-transform:uppercase; vertical-align:middle; }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <div class="topbar-inner">
+    <span class="crumb"><a href="../index.html">← All tools</a></span>
+    <span class="source">aitoolproductivity.com directory</span>
+  </div>
+</div>
+<main>
+  <span class="eyebrow">✓ Tasks &amp; Planning</span>
+  <h1>Notion AI </h1>
+  <p class="tagline">AI search and writing inside a connected team workspace.</p>
+  <div class="hero">
+    <a class="visit" href="https://www.notion.com/product/ai" target="_blank" rel="noopener">Visit Notion AI <span class="arr">↗</span></a>
+    <div class="meta">
+      <span class="free">Free plan available</span>
+      <span>Included or available with select Notion plans</span>
+      <span>Best for: Teams managing documents, knowledge, and projects in one place</span>
+    </div>
+  </div>
+  <p class="desc">Notion AI brings drafting, summarization, and workspace search into notes, wikis, projects, and databases. It is most valuable when your team already keeps its knowledge in Notion.</p>
+
+  <section>
+    <h2>Key Features</h2>
+    <div class="panel">
+      <ul class="feat">
+<li>Workspace search</li>
+<li>Document drafting</li>
+<li>Meeting notes</li>
+<li>Database autofill</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Strengths &amp; Limitations</h2>
+    <div class="grid2">
+      <div class="panel pro">
+        <h3>Pros</h3>
+        <ul><li>AI works in existing docs</li>
+<li>Flexible all-in-one workspace</li>
+<li>Strong knowledge search</li></ul>
+      </div>
+      <div class="panel con">
+        <h3>Cons</h3>
+        <ul><li>Can become complex at scale</li>
+<li>Best value requires a well-organized workspace</li></ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="ed">
+    <h2>Editorial Review</h2>
+<h4>Verdict</h4><p>Notion AI is most valuable when Notion is already the place where a team stores decisions, projects, and reference material. Drafting and workspace search inside the same environment reduce copying between tools and can make existing knowledge easier to retrieve. AI will not repair an inconsistent workspace on its own. Poor permissions, duplicate pages, and unclear ownership still produce unreliable answers.</p>
+<h4>Recommended workflow</h4><p>Start by improving the underlying workspace: archive outdated pages, use consistent titles, and identify authoritative sources. Apply AI to bounded tasks such as summarizing a project update, extracting actions from notes, drafting from an approved brief, or answering a question from named sources. Review generated database values before relying on them in reports. Keep important decisions in structured pages rather than chat history.</p>
+<h4>Value assessment</h4><p>The economics are strongest for teams already paying for and actively using Notion. Consolidating search, drafting, and notes can be more valuable than adding a separate chatbot, but only when the workspace contains trustworthy information. New users should evaluate Notion as a full knowledge and project system first; choosing it solely for AI can create unnecessary migration and administration work.</p>
+<h4>Alternatives to consider</h4><p>ChatGPT and Claude provide broader analysis outside a specific workspace. Taskade is lighter for collaborative tasks and AI-generated workflows. Microsoft 365 Copilot or Google Workspace AI may be more appropriate when company knowledge primarily lives in those suites. Reclaim and Motion are better choices when the main problem is scheduling rather than documentation.</p>
+  </section>
+
+  <div class="source-note">
+    Product data curated by the <a href="https://www.aitoolproductivity.com/" target="_blank" rel="noopener">AI Tool Productivity</a> directory &mdash; the best AI tools for writing, meetings, planning, and design. <a href="readme.md">View the readme</a>.
+  </div>
+</main>
+</body>
+</html>
