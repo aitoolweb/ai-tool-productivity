@@ -1,6 +1,6 @@
 # AI Tool Productivity — Product Directory
 
-Per-product overview pages for the AI tools featured on [aitoolproductivity.com](https://www.aitoolproductivity.com/) and a set of free web tools & games from the same network. Each product lives in its own folder with an `index.html` landing page and a `readme.md` document, including the official website link.
+Per-product overview pages for the AI tools featured on [aitoolproductivity.com](https://www.aitoolproductivity.com/) and a set of web tools & games from the same network. Each product lives in its own folder with an `index.html` landing page and a `readme.md` document, including the official website link.
 
 ## AI Productivity Tools
 
@@ -21,9 +21,9 @@ Per-product overview pages for the AI tools featured on [aitoolproductivity.com]
 - **[Gamma](gamma/)** — The fastest way to turn an outline into a polished presentation. _Free plan_. [`gamma/index.html`](gamma/index.html) · [`readme.md`](gamma/readme.md) · <https://gamma.app/>
 - **[H3 Max](h3-max/)** — MiniMax's high-speed AI video model — text or image to video in seconds. _Free plan_. [`h3-max/index.html`](h3-max/index.html) · [`readme.md`](h3-max/readme.md) · <https://platform.minimaxi.com/>
 
-## More Free Web Tools & Games
+## More Web Tools & Games
 
-- **[Pic2Emoji](pic2emoji/)** — Free AI photo to emoji converter — plus a live random emoji generator. AI generation launches soon; reserve a free launch code by email. _Free_. [`pic2emoji/index.html`](pic2emoji/index.html) · [`readme.md`](pic2emoji/readme.md) · <https://pic2emoji.com/>
+- **[Pic2Emoji](pic2emoji/)** — Turn your photo into a custom 16-sticker emoji pack. AI-powered, privacy-first, on-device. _Paid beta — static $4.90 / animated $9.90_. [`pic2emoji/index.html`](pic2emoji/index.html) · [`readme.md`](pic2emoji/readme.md) · <https://pic2emoji.com/>
 - **[ColorfulWallpapers](colorfulwallpapers/)** — Free HD phone wallpapers by color — original files, 2K downloads, no account. _Free_. [`colorfulwallpapers/index.html`](colorfulwallpapers/index.html) · [`readme.md`](colorfulwallpapers/readme.md) · <https://colorfulwallpapers.com/>
 - **[Topsoil Cost Calculator](topsoilcostcalculator/)** — Free landscaping calculators for topsoil, sod and sand — cubic yards, tons, bags, rolls, pallets and cost. _Free_. [`topsoilcostcalculator/index.html`](topsoilcostcalculator/index.html) · [`readme.md`](topsoilcostcalculator/readme.md) · <https://topsoilcostcalculator.com/>
 - **[Sleep Time Calculator](calculatorsleeptime/)** — Free sleep cycle calculators for bedtime, wake-up, naps, sleep debt and jet lag. _Free_. [`calculatorsleeptime/index.html`](calculatorsleeptime/index.html) · [`readme.md`](calculatorsleeptime/readme.md) · <https://calculatorsleeptime.com/>
