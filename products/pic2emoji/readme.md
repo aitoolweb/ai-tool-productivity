@@ -37,3 +37,7 @@ No account needed. No watermark on your pack.
 
 - ✅ Private beta open (launch codes available)
 - 🔜 Public launch with paid static/animated packs
+
+## GitHub Repo
+
+Try the browser demo & browse the source: [github.com/aitoolweb/pic2emoji](https://github.com/aitoolweb/pic2emoji) — photo to emoji sticker preview, runs locally.

@@ -4,7 +4,9 @@ A focused collection of AI tools for writing, meetings, planning, and design —
 
 ## Featured Tool
 
-**[Pic2Emoji](https://pic2emoji.com/)** — Turn your photos into custom emoji sticker packs. AI-powered, privacy-first, on-device. Launch offer: free static pack (worth $4.90) with your launch code.
+**[Pic2Emoji](https://pic2emoji.com/)** — Turn your photos into custom emoji sticker packs. AI-powered, privacy-first, on-device. Launch offer: free static pack (worth $4.90) with your launch code. See [github.com/aitoolweb/pic2emoji](https://github.com/aitoolweb/pic2emoji) — make emoji from photo (open-source demo).
+
+Open-source demo: [github.com/aitoolweb/pic2emoji](https://github.com/aitoolweb/pic2emoji) — make emoji from photo.
 
 ## What's in this repo
 
